@@ -1,4 +1,4 @@
-# Frost - PDF Receipt Analyzer
+# PDF Receipt Analyzer
 
 A local-first AI tool for analyzing PDF invoices and receipts. Extract line items, categorize expenses, and visualize spending patterns—all processed on your machine.
 
